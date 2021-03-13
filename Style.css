@@ -1,0 +1,28 @@
+        h1{
+            color: rgb(32, 223, 223);
+        }
+        h2{
+            color: rgb(196, 57, 138);
+            font-size: 40px;
+        }
+        p{color: rgb(90, 123, 185);
+        font-size: 50px;font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+        *{
+            border: solid;
+            border-radius: 20px;
+        }
+         body{
+             background-color: rgba(213, 223, 130, 0.486);
+         }
+         .Yashvi{
+             background-color: cornflowerblue;
+             display: flex;
+             justify-content: space-between;
+             border-width: 8px;
+         }
+.Diyana{
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+}
